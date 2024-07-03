@@ -2,3 +2,6 @@ lab1 - prepare tools and first run Next.sj
 lab2 - create page and api on v13
 lab3 - use v14 (app router) front + api
 lab4 - prisma mysql
+lab5 - auth
+lab6 - stripe
+lab7 - vercel
