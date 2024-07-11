@@ -3,5 +3,5 @@ lab2 - create page and api on v13
 lab3 - use v14 (app router) front + api
 lab4 - prisma mysql
 lab5 - auth
-lab6 - stripe
+lab6 - vercel @ https://github.com/dadwindad/next14-vercel-deploy
 lab7 - vercel
